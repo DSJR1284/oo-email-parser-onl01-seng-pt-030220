@@ -13,7 +13,7 @@
 
 
    def parse
-    emails.split(/\s|,/)
+    emails.split(/\s | ,/)
    end
 
 
